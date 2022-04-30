@@ -8,7 +8,7 @@ and allowed me to develop classification models on this data. Highlighting what 
 To run this project I had to use an API to get the weather data colleceted from my home town which then used a personal access key which is read from two files 
 that I havent uploaded to this public github repo for security reasons.
 
-I hope you enjoy looking through this project of mine and that it causes you to think abou the data you are giving about yourself to big tech companies.
+I hope you enjoy looking through this project of mine and that it causes you to think about the data you are giving about yourself to big tech companies.
 
 Thanks,
 George
