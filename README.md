@@ -1,7 +1,9 @@
 # DataScienceFinalProject
+
 George Calvert
-Professor Sprint
+
 Gonzaga University
+
 CPSC 222, Spring 2022
 
 
