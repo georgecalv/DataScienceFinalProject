@@ -1,4 +1,4 @@
-# DataScienceFinalProject
+# Data Science Final Project
 
 George Calvert
 
