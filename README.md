@@ -1,4 +1,12 @@
-# DataScienceFinalProject
+# Data Science Final Project
+
+George Calvert
+
+Gonzaga University
+
+CPSC 222, Spring 2022
+
+
 
 In this project I am analyzing the data Netflix has collected on my viewing history from 7/30/2016 to 4/9/2022
 I am first counting the number of things watched everyday within this time frame and combining it with weather data, the day of the week,
